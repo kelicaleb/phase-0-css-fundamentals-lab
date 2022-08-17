@@ -3,3 +3,21 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  padding-left:42%;
+}
+#featured-property{
+  text-align: center;
+}
+nav{
+  padding-left:40%;
+}
+#details{
+  height:130px;
+  background-color:red;
+
+}
+div{
+  float:left;
+  padding-left:12%;
+}
